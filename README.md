@@ -9,5 +9,5 @@ A React-based weather app displaying real-time weather info based on user locati
 - Uses OpenWeatherMap API (or your API)
 
 ## Screenshot
-![Weather App Screenshot](Project/assets/cold.png)
-![Weather App Screenshot](Project/assets/hot.png)
+![Weather App Screenshot](https://github.com/nidhibajariya/Weather_react_app/blob/main/src/assets/cold.png)
+![Weather App Screenshot](src/assets/hot.png)
